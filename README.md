@@ -10,7 +10,7 @@ A - B - C - D - E - [F](#f) - G - H - I - J - K- L - M - N - O - P - Q - R - S -
 # D
 # E
 # F
-- [Fylo data storage component](https://github.com/Damuzid/fylo-data-storage-component) single component made with HTML & CSS (Flexbox)
+- [Fylo data storage component](https://github.com/Damuzid/fylo-data-storage-component) - single component made with HTML & CSS (Flexbox)
 # G
 # H
 # I
