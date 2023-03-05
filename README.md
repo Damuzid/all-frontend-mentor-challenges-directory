@@ -24,7 +24,7 @@ A - B - C - D - E - [F](#f) - G - H - I - J - K- L - M - N - O - P - Q - R - [S]
 # Q
 # R
 # S
-- [Single price grid component](https://github.com/Damuzid/single-price-grid-component)
+- [Single price grid component](https://github.com/Damuzid/single-price-grid-component) - Simple CSS grid with 3 columns
 # T
 # U
 # V
